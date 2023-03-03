@@ -30,7 +30,7 @@ OPENAI_API_KEY=sk-******************************** node index.js
 
 ## 結果
 
-```json
+```js
 {
   role: 'assistant',
   content: '\n' +
