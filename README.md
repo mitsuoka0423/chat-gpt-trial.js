@@ -1,6 +1,6 @@
 # chat-gpt-trial.js
 
-Chat GPT API（Create chat completion API）のサンプルコード
+Create chat completion API（Chat GPT API）のサンプルコード
 
 https://platform.openai.com/docs/api-reference/chat/create?lang=node.js
 
